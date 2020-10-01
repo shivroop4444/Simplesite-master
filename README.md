@@ -1,2 +1,3 @@
 # Simplesite-master
-# created by shivroop # SimpleSite A simple demo website.
+# created by Shivroop Malwadkar
+# SimpleSite A simple demo website.
